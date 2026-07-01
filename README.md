@@ -62,6 +62,6 @@ Using entirely **Open Source Intelligence (OSINT)** and zero-cost digital workar
 4. The mapping of a definitive statutory legal workaround via the Secretary of State.
 
 ***
-*Disclaimer: All sensitive entities, specific geolocations, and proprietary assets within this case study have been thoroughly redacted and anonymized to preserve operational security and adhere to strict privacy compliance benchmarks.*
+*Disclaimer: All sensitive entities, specific geolocations, and proprietary assets within this case study have been thoroughly altered or redacted and anonymized to preserve operational security and adhere to strict privacy compliance benchmarks.*
 
 
