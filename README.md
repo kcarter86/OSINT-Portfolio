@@ -22,7 +22,7 @@ The investigation commenced with a single corporate data string identifying a bo
 ## Phase 2: Resolving Regional Identity Conflicts ("The Cross-Reference Split")
 A geographic filter applied to public registries returned an immediate bottleneck: multiple individuals named "John Doe" operating concurrently within the target metropolitan footprint. To prevent compliance violations and ensure data integrity, a rigorous subject deconfliction process was executed:
 
-1. **Profile Isolation:** Public social data logs were audited. The target entrepreneur's profile confirmed a localized high school education baseline. Concurrently, a prominent professional profile surfaced for a separate "John Doe" in the area serving as a senior corporate cybersecurity engineer at a **Major AI Technology Firm**, with a prior background at a **Global Cyber Security Consult**.
+1. **Profile Isolation:** Public social data logs were audited. The target entrepreneur's profile confirmed a localized high school education baseline. Concurrently, a prominent professional profile surfaced for a separate "John Doe" in the area serving as a senior corporate cybersecurity engineer at a **Major Technology Firm**, with a prior background at a **Global Cyber Security Consult**.
 2. **Asset Cross-Reference:** Real estate aggregate engines were utilized to audit a premium urban property address (**Address A**) linked by automated consumer data brokers to the target name. Current market-rate leases for the complex were verified at a premium tier, aligning with a high-earning corporate technology trajectory rather than a defunct boutique startup operator.
 3. **The Automotive Lock:** Utilizing a public consumer insurance quote engine, an automotive asset check was run against the subject data parameters, revealing an active link to a **specific mid-sized sedan model**. Google Maps Street View imaging was deployed to audit the exterior of Address A, capturing the exact matching vehicle model parked on-site.
 
@@ -43,7 +43,7 @@ With the secondary corporate technology profile successfully filtered out, the i
 To provide a comprehensive field option alongside the statutory route, an open-source property title search was conducted to find a primary residential anchor.
 
 * **Methodology:** Moving outside automated city databases, direct access was gained to the regional land records lookup system. A Section-Block-Lot (SBL) parcel search was executed to track historical deed records.
-* **The Anchor Discovery:** A final property node was audited: **Address B** (a single-family residence outside the main city center). Public GIS mapping and assessor tax cards revealed the property had been purchased in **April 1996** and remained under the continuous ownership of two immediate family members sharing the subject's last name for three decades.
+* **The Anchor Discovery:** A final property node was audited: **Address B** (a single-family residence outside the main city center). Public GIS mapping and assessor tax cards revealed the property had been purchased since the **1990s** and remained under the continuous ownership of two immediate family members sharing the subject's last name for three decades.
 * **Result:** While the subject's status as an off-deed tenant or renter shields his name from public land titles, isolating this long-standing, 30-year multi-generational family household provided a verified **"Usual Place of Abode."** This unlocked the legal pathway to execute secure **Substituted Service** via an adult co-resident family member.
 
 ---
