@@ -24,9 +24,9 @@ A geographic filter applied to public registries returned an immediate bottlenec
 
 1. **Profile Isolation:** Public social data logs were audited. The target entrepreneur's profile confirmed a localized high school education baseline. Concurrently, a prominent professional profile surfaced for a separate "John Doe" in the area serving as a senior corporate cybersecurity engineer at a **Major AI Technology Firm**, with a prior background at a **Global Cyber Security Consult**.
 2. **Asset Cross-Reference:** Real estate aggregate engines were utilized to audit a premium urban property address (**Address A**) linked by automated consumer data brokers to the target name. Current market-rate leases for the complex were verified at a premium tier, aligning with a high-earning corporate technology trajectory rather than a defunct boutique startup operator.
-3. **The Automotive Asset Contradiction:** An audit of the target’s historical social media records verified past ownership of an older, specific vehicle make and model. Concurrently, a query of a public consumer insurance quote engine against the secondary cybersecurity profile revealed an active link to a modern **2017 mid-sized sedan**. Google Maps Street View imaging was deployed to audit the exterior of Address A, capturing the exact matching 2017 sedan parked on-site. 
+3. **The Automotive Asset Contradiction:** An audit of the target’s historical social media records verified past ownership of an older, specific vehicle make and model. Concurrently, a query of a public consumer insurance quote engine against the secondary cybersecurity profile revealed an active link to a modern ** mid-sized sedan**. Google Maps Street View imaging was deployed to audit the exterior of Address A, capturing the exact matching sedan parked on-site. 
 
-**Conclusion:** The direct contradiction between the true target's documented vehicle history and the 2017 sedan linked to the urban address provided undeniable proof of distinct identity. This visual and financial evidence conclusively decoupled the corporate cybersecurity professional from the target investigation, successfully eliminating a high-risk false positive and confirming that the premium property was not owned or occupied by the target.
+**Conclusion:** The direct contradiction between the true target's documented vehicle history and the sedan linked to the urban address provided undeniable proof of distinct identity. This visual and financial evidence conclusively decoupled the corporate cybersecurity professional from the target investigation, successfully eliminating a high-risk false positive and confirming that the premium property was not owned or occupied by the target.
 
 ---
 
@@ -62,6 +62,6 @@ Using entirely **Open Source Intelligence (OSINT)** and zero-cost digital workar
 4. The mapping of a definitive statutory legal workaround via the Secretary of State.
 
 ***
-*Disclaimer: All sensitive entities, specific geolocations, and proprietary assets within this case study have been thoroughly altered or redacted and anonymized to preserve operational security and adhere to strict privacy compliance benchmarks.*
+*Disclaimer: All sensitive entities, specific geolocations, and proprietary assets within this case study have been thoroughly fictionalized or redacted and anonymized to preserve operational security and adhere to strict privacy compliance benchmarks.*
 
 
